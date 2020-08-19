@@ -1,43 +1,741 @@
-id,url,title,source,time
-1,https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain,how to map an existing domain,http://www.fp.fo/news-area/press-releases/,0.6424977779388428 seconds
-2,https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/,App Service Domain FAQ,http://www.fp.fo/news-area/press-releases/,0.6424977779388428 seconds
-3,https://www.lundin-energy.com/,HOME,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-4,https://www.lundin-energy.com/about-us/,ABOUT US,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-5,https://www.lundin-energy.com/operations/,OPERATIONS,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-6,https://www.lundin-energy.com/investors/,INVESTORS,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-7,https://www.lundin-energy.com/media-centre/,MEDIA CENTRE,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-8,https://www.lundin-energy.com/sustainability/,SUSTAINABILITY,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-9,?s=,Search,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-10,https://www.facebook.com/lundinenergy/,Facebook,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-11,https://www.instagram.com/lundinenergy/?hl=en,Instagram,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-12,https://www.linkedin.com/company/lundinenergy,Linkedin,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-13,https://www.youtube.com/LundinEnergy,YouTube,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-14,https://myirapp.com/lundin/,see details…,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-15,https://www.lundin-energy.com/download/report-for-the-six-months-ended-30-june-2020-regulatory/?wpdmdl=28793&refresh=5f340a869453a1597246086/,Report for the six months ended 30 June 2020 (regulatory),https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-16,https://www.lundin-energy.com/download/update-on-second-quarter-2020-financial-results-and-audiocast-details-for-presentation-on-29-july-2020/?wpdmdl=28687&refresh=5f340a86959b01597246086/,Update on second quarter 2020 financial results and audiocast details for presentation on 29 July 2020,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-17,https://www.lundin-energy.com/download/the-second-quarterly-instalment-of-the-dividend-of-usd-0-25-per-share-will-amount-to-sek-2-33-per-share/?wpdmdl=28612&refresh=5f340a86966a01597246086/,The second quarterly instalment of the dividend of USD 0.25 per share will amount to SEK 2.33 per share,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-18,https://www.lundin-energy.com/download/lundin-energy-abs-nomination-committee/?wpdmdl=28224&refresh=5f340a86972581597246086/,Lundin Energy AB's Nomination Committee,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-19,https://www.lundin-energy.com/download/updated-2020-production-guidance-to-reflect-the-norwegian-government-production-restrictions-and-increased-long-term-production-guidance/?wpdmdl=27402&refresh=5f340a8697d841597246086/,Updated 2020 production guidance to reflect the Norwegian Government production restrictions and increased long-term production guidance,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-20,https://www.lundin-energy.com/download/report-for-the-three-months-ended-31-march-2020/?wpdmdl=26950&refresh=5f340a86989281597246086/,Report for the three months ended 31 March 2020 (regulatory),https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-21,https://www.lundin-energy.com/download/update-on-first-quarter-2020-financial-results-and-audiocast-details-for-30-april-2020/?wpdmdl=26866&refresh=5f340a86994ab1597246086/,Update on Q1 2020 financial results and audiocast details for 30 April 2020,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-22,https://www.lundin-energy.com/download/annual-general-meeting-of-lundin-petroleum-ab-31-march-2020/?wpdmdl=26472&refresh=5f340a869a1881597246086/,Annual General Meeting of Lundin Petroleum AB 31 March 2020,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-23,https://www.lundin-energy.com/download/increased-phases-1-2-plateau-rates-and-accelerated-ramp-up-at-johan-sverdrup/?wpdmdl=26257&refresh=5f340a869acef1597246086/,Increased phases 1 & 2 plateau rates and accelerated ramp up at Johan Sverdrup,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-24,https://www.lundin-energy.com/download/the-first-quarterly-instalment-of-the-proposed-dividend-of-usd-0-25-per-share-will-amount-to-sek-2-49-per-share/?wpdmdl=26206&refresh=5f340a869ba0f1597246086/,The first quarterly instalment of the proposed dividend of USD 0.25 per share will amount to SEK 2.49 per share,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-25,https://www.lundin-energy.com/media-centre/?cp_30=2,2,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-26,https://www.lundin-energy.com/media-centre/?cp_30=3,3,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-27,https://www.lundin-energy.com/media-centre/?cp_30=92,92,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-28,mailto:alex.budden@lundin-energy.com,alex.budden@lundin-energy.com,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-29,mailto:robert.eriksson@lundin-energy.com,robert.eriksson@lundin-energy.com,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-30,https://www.lundin-energy.com/media-centre/financial-reports/,Financial reports,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-31,https://www.lundin-energy.com/media-centre/presentations/,Presentations,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-32,https://www.lundin-energy.com/media-centre/webcasts/,Webcasts,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-33,https://www.lundin-energy.com/media-centre/photos/,Photos,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-34,https://www.lundin-energy.com/media-centre/videos/,Videos,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-35,https://www.youtube.com/LundinEnergy,Youtube,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-36,https://www.lundin-energy.com/contact-us/,Contact us,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-37,https://www.lundin-energy.com/global-privacy-notice/,Global Privacy Notice,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-38,https://www.lundin-energy.com/cookie-policy/,Cookie Policy,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-39,https://www.lundin-energy.com/legal-notice/,Legal Notice,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-40,https://lundin-energy-norway.no/?lang=en,Lundin Energy Norway Website,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-41,https://www.lundin-energy.com/sv/media/,Svenska,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
-42,https://www.wpdownloadmanager.com/,WordPress Download Manager - Best Download Management Plugin,https://www.lundin-petroleum.com/media-centre/,4.376305341720581 seconds
+id,url,title,source,time,extract date
+1,https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain,how to map an existing domain,http://www.fp.fo/news-area/press-releases/,4.744519233703613 seconds,2020-08-15
+2,https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/,App Service Domain FAQ,http://www.fp.fo/news-area/press-releases/,4.744519233703613 seconds,2020-08-15
+3,https://www.lundin-energy.com/,HOME,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+4,https://www.lundin-energy.com/about-us/,ABOUT US,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+5,https://www.lundin-energy.com/operations/,OPERATIONS,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+6,https://www.lundin-energy.com/investors/,INVESTORS,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+7,https://www.lundin-energy.com/media-centre/,MEDIA CENTRE,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+8,https://www.lundin-energy.com/sustainability/,SUSTAINABILITY,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+9,?s=,Search,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+10,https://www.facebook.com/lundinenergy/,Facebook,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+11,https://www.instagram.com/lundinenergy/?hl=en,Instagram,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+12,https://www.linkedin.com/company/lundinenergy,Linkedin,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+13,https://www.youtube.com/LundinEnergy,YouTube,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+14,https://myirapp.com/lundin/,see details…,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+15,https://www.lundin-energy.com/download/report-for-the-six-months-ended-30-june-2020-regulatory/?wpdmdl=28793&refresh=5f37a35f934c11597481823/,Report for the six months ended 30 June 2020 (regulatory),https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+16,https://www.lundin-energy.com/download/update-on-second-quarter-2020-financial-results-and-audiocast-details-for-presentation-on-29-july-2020/?wpdmdl=28687&refresh=5f37a35f947861597481823/,Update on second quarter 2020 financial results and audiocast details for presentation on 29 July 2020,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+17,https://www.lundin-energy.com/download/the-second-quarterly-instalment-of-the-dividend-of-usd-0-25-per-share-will-amount-to-sek-2-33-per-share/?wpdmdl=28612&refresh=5f37a35f953c31597481823/,The second quarterly instalment of the dividend of USD 0.25 per share will amount to SEK 2.33 per share,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+18,https://www.lundin-energy.com/download/lundin-energy-abs-nomination-committee/?wpdmdl=28224&refresh=5f37a35f95eae1597481823/,Lundin Energy AB's Nomination Committee,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+19,https://www.lundin-energy.com/download/updated-2020-production-guidance-to-reflect-the-norwegian-government-production-restrictions-and-increased-long-term-production-guidance/?wpdmdl=27402&refresh=5f37a35f969871597481823/,Updated 2020 production guidance to reflect the Norwegian Government production restrictions and increased long-term production guidance,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+20,https://www.lundin-energy.com/download/report-for-the-three-months-ended-31-march-2020/?wpdmdl=26950&refresh=5f37a35f974441597481823/,Report for the three months ended 31 March 2020 (regulatory),https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+21,https://www.lundin-energy.com/download/update-on-first-quarter-2020-financial-results-and-audiocast-details-for-30-april-2020/?wpdmdl=26866&refresh=5f37a35f97f501597481823/,Update on Q1 2020 financial results and audiocast details for 30 April 2020,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+22,https://www.lundin-energy.com/download/annual-general-meeting-of-lundin-petroleum-ab-31-march-2020/?wpdmdl=26472&refresh=5f37a35f98a0b1597481823/,Annual General Meeting of Lundin Petroleum AB 31 March 2020,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+23,https://www.lundin-energy.com/download/increased-phases-1-2-plateau-rates-and-accelerated-ramp-up-at-johan-sverdrup/?wpdmdl=26257&refresh=5f37a35f9986e1597481823/,Increased phases 1 & 2 plateau rates and accelerated ramp up at Johan Sverdrup,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+24,https://www.lundin-energy.com/download/the-first-quarterly-instalment-of-the-proposed-dividend-of-usd-0-25-per-share-will-amount-to-sek-2-49-per-share/?wpdmdl=26206&refresh=5f37a35f9a79a1597481823/,The first quarterly instalment of the proposed dividend of USD 0.25 per share will amount to SEK 2.49 per share,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+25,https://www.lundin-energy.com/media-centre/?cp_30=2,2,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+26,https://www.lundin-energy.com/media-centre/?cp_30=3,3,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+27,https://www.lundin-energy.com/media-centre/?cp_30=92,92,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+28,mailto:alex.budden@lundin-energy.com,alex.budden@lundin-energy.com,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+29,mailto:robert.eriksson@lundin-energy.com,robert.eriksson@lundin-energy.com,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+30,https://www.lundin-energy.com/media-centre/financial-reports/,Financial reports,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+31,https://www.lundin-energy.com/media-centre/presentations/,Presentations,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+32,https://www.lundin-energy.com/media-centre/webcasts/,Webcasts,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+33,https://www.lundin-energy.com/media-centre/photos/,Photos,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+34,https://www.lundin-energy.com/media-centre/videos/,Videos,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+35,https://www.youtube.com/LundinEnergy,Youtube,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+36,https://www.lundin-energy.com/contact-us/,Contact us,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+37,https://www.lundin-energy.com/global-privacy-notice/,Global Privacy Notice,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+38,https://www.lundin-energy.com/cookie-policy/,Cookie Policy,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+39,https://www.lundin-energy.com/legal-notice/,Legal Notice,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+40,https://lundin-energy-norway.no/?lang=en,Lundin Energy Norway Website,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+41,https://www.lundin-energy.com/sv/media/,Svenska,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+42,https://www.wpdownloadmanager.com/,WordPress Download Manager - Best Download Management Plugin,https://www.lundin-petroleum.com/media-centre/,10.791985034942627 seconds,2020-08-15
+43,https://www.stackpath.com/,StackPath,https://www.centrica.com/newsroom?f[0]=field_category:1,11.229838609695435 seconds,2020-08-15
+44,tel:+1 403 264 8877,+1 403 264 8877,http://serinusenergy.com/news/,13.620387077331543 seconds,2020-08-15
+45,https://serinusenergy.com/news/?lang=pl,polski,http://serinusenergy.com/news/,13.620387077331543 seconds,2020-08-15
+46,https://serinusenergy.com/company-overview/,Company Overview,http://serinusenergy.com/news/,13.620387077331543 seconds,2020-08-15
+47,https://serinusenergy.com/policies-and-guidelines/,Policies and Guidelines,http://serinusenergy.com/news/,13.620387077331543 seconds,2020-08-15
+48,https://serinusenergy.com/corporate-strategy/,Corporate Strategy,http://serinusenergy.com/news/,13.621384620666504 seconds,2020-08-15
+49,https://serinusenergy.com/leadership/,Directors,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+50,https://serinusenergy.com/romania/,Romania,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+51,https://serinusenergy.com/tunisia/,Tunisia,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+52,https://serinusenergy.com/overview/,Overview,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+53,https://serinusenergy.com/financial-results/,Financial Results,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+54,https://serinusenergy.com/shareholder-information/,AIM Rule 26,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+55,https://serinusenergy.com/presentations/,Presentations,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+56,https://serinusenergy.com/investor-contact/,Investor Contact,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+57,https://serinusenergy.com/wse-current-report-filings/,WSE Current Report Filings,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+58,https://serinusenergy.com/news/,News,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+59,https://serinusenergy.com/events/,Events,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+60,https://serinusenergy.com/contact/,Contact,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+61,https://serinusenergy.com/interim-results-for-the-six-months-ended-30-june-2020/,"Interim Results for the six months ended 30 June 2020 08/14/2020 Jersey, Channel Islands, 14 August 2020 - Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces the release …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+62,https://serinusenergy.com/issue-of-salary-sacrifice-shares-directors-holdings/,"Issue of Salary Sacrifice Shares – Directors Holdings 07/14/2020 Jersey, Channel Islands, 14 July 2020 - Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces that further …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+63,https://serinusenergy.com/executive-salary-and-director-remuneration-reductions-extended/,"Executive Salary and Director Remuneration Reductions Extended 07/02/2020 Jersey, Channel Islands, 2 July 2020 - Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces that the …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+64,https://serinusenergy.com/deferral-of-ebrd-debt-repayment/,"Deferral of EBRD Debt Repayment 06/24/2020 Jersey, Channel Islands, 24 June 2020 -- Serinus Energy plc (“Serinus”, “SEN” or the “Company”) (AIM:SENX, WSE:SEN), announces that the …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+65,https://serinusenergy.com/issuance-of-stock-options/,"Issuance of Stock Options 05/18/2020 Jersey, Channel Islands, 18 May 2020 -- Serinus Energy plc (“Serinus”, “SEN” or the “Company”) (AIM:SENX, WSE:SEN), announces that the …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+66,https://serinusenergy.com/voting-results-from-agm-2/,"Voting Results from AGM 05/15/2020 Jersey, Channel Islands, 15 May 2020 -- Serinus Energy plc (“Serinus”, “SEN” or the “Company”) (AIM:SENX, WSE:SEN) is pleased to …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+67,https://serinusenergy.com/interim-results-for-the-three-months-ended-31-march-2020/,"Interim Results for the three months ended 31 March 2020 05/15/2020 Jersey, Channel Islands, 15 May 2020 - Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces the release …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+68,https://serinusenergy.com/reduction-of-executive-salary-and-director-remuneration/,"Reduction of Executive Salary and Director Remuneration 04/27/2020 Jersey, Channel Islands, 27 April 2020 - Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces that the …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+69,https://serinusenergy.com/notice-of-annual-general-meeting-2/,"Notice of Annual General Meeting 04/20/2020 Jersey, Channel Islands, 20 April 2020 -- Serinus Energy plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces that a …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+70,https://serinusenergy.com/appointment-of-chief-operating-officer-2/,"Appointment of Chief Operating Officer 04/01/2020 Jersey, Channel Islands, 1 April 2020 -- Serinus Energy Plc (""Serinus"", “SEN” or the ""Company"") (AIM:SENX, WSE:SEN) announces the appointment …",http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+71,https://serinusenergy.com/news/page/2/,Older posts,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+72,https://serinusenergy.com/terms-and-conditions/,Privacy Policy and Terms of Use,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+73,http://passerellemarketing.com,Website by Passerelle Marketing,http://serinusenergy.com/news/,13.621403455734253 seconds,2020-08-15
+74,https://b2b.mol.hu/molbay/DistributionLayer/uudbsa_en.htm?appid=uudbsaui&command=login&style=mol,CC Login,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+75,/hu/molrol/mediaszoba/kozlemenyek,hu,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+76,/en/about-mol/media-room/press-releases/,en,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+77,/en/,About MOL,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+78,/en/about-mol/social-investments,Social Investments,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+79,/en/about-mol/supplier-center,Supplier Center,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+80,/en/about-mol/who-we-are,Who we are,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+81,http://molgroup.info/en/,About MOL Group,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+82,/en/about-mol/managing-the-corporation,Managing the Corporation,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+83,/en/about-mol/media-room,Media room,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+84,http://molgroup.info/en/investor-relations,Investor relations,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+85,/en/about-mol/ethics-and-compliance,Ethics and Compliance,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+86,/en/about-mol/petrochemical-business,Petrochemical Business,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+87,http://www.molgroupcards.com,Fuel Cards,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+88,http://mol.hu/images/pdf/About_MOL/terms/general_terms_and_conditions_of_wholesale.pdf,General Terms and Conditions of Wholesale,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+89,http://mol.hu/images/pdf/About_MOL/terms/General_Terms_and_Conditions_GTC_for_MOL_Plc_Biocomponent_Procurement_4_2019.pdf,General Terms and Conditions for MOL Plc. Biocomponent Procurement,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+90,/en/for-the-business,For the Business,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+91,/en/for-the-business/fuels,Fuels,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+92,/en/for-the-business/chemicals,Chemicals,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+93,/en/for-the-business/energy-products,Energy products,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+94,/en/for-the-business/mol-lpg,MOL LPG,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+95,/en/for-the-business/bitumen-products,Bitumen products,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+96,https://b2b.mol.hu/molbay/DistributionLayer/uudbsa_en.htm?appid=uudbsaui&command=login&style=mol,Card Centre,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+97,/en/for-the-business/fuel-cards,Fuel Cards,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+98,/en/lubricants-autochemicals,Lubricants & Autochemicals,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+99,https://www.molgroupchemicals.com/,Polymers,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+100,/en/career,Career,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+101,/en/career/work-with-us,Work with us,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+102,https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=en&location=2205100397,Domestic job offers,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+103,http://molgroup.info/growww/,"Growww, graduate program",https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+104,http://junior.freshhh.net/,MOL Junior Freshhh,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+105,http://molgroup.info/en/careers/opportunities-for-students-and-graduates/pims-academy,PIMS Academy,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+106,/en/career/mol-as-a-workplace,MOL as a workplace,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+107,/en/career/life-at-mol-as-an-expat,Life at MOL as an Expat,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+108,/en/contact,Contact,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+109,/en/about-mol/media-room/press-releases,Press releases,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+110,mailto:internationalpress@mol.hu,internationalpress@mol.hu,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+111,mailto:pressoffice@mol.hu,pressoffice@mol.hu,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+112,/en/about-mol/media-room/press-releases/?1=1&start=10,2,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+113,/en/about-mol/media-room/press-releases/?1=1&start=20,3,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+114,/en/about-mol/media-room/press-releases/?1=1&start=30,4,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+115,/en/about-mol/media-room/press-releases/?1=1&start=40,5,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+116,/en/about-mol/media-room/press-releases/?1=1&start=50,6,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+117,/en/about-mol/media-room/press-releases/?1=1&start=60,7,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+118,/en/about-mol/media-room/press-releases/?1=1&start=10,Next,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+119,/en/lubricants-autochemicals/about-us,About us,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+120,/en/lubricants-autochemicals/contact,Contact,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+121,/en/lubricants-autochemicals/general-commercial-conditions-lubricants,GTC – Lubricants,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+122,/en/lubricants-autochemicals/gpc-lubricants/,GPC – Lubricants,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+123,/en/terms-conditions,Terms & Conditions,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+124,/en/privacy-policy,Privacy Policy,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+125,/hu/adatvedelem/a-www-mol-hu-weboldalon-hasznalt-cookiek/,Cookie policy,https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+126,http://outdatedbrowser.com/,"Update my
+                        browser now",https://mol.hu/en/about-mol/media-room/press-releases,21.679356336593628 seconds,2020-08-15
+127,/,Ptil logo 2018 svart mobile,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+128,/,ptil-logo-norsk-new,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+129,/en/?lang=en_US,English,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+130,/regelverk/alle-forskrifter/,Alle forskrifter,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+131,/regelverk/lover/,Lover,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+132,/regelverk/horinger-og-endringer/,Endringer og høringer,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+133,/regelverk/pdf-av-regelverket/,PDF av regelverket,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+134,/tilsyn/tilsynsrapporter/,Tilsynsrapporter,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+135,/tilsyn/granskingsrapporter/,Granskingsrapporter,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+136,/tilsyn/samtykker/,Samtykker,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+137,/tilsyn/samsvarsuttalelser/,Samsvarsuttalelser,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+138,/tilsyn/viktige-meldinger/,Viktige meldingar,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+139,/fagstoff/utforsk-fagstoff/,Utforsk fagstoff,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+140,/fagstoff/rnnp/,Risikonivå (RNNP),http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+141,/fagstoff/ord-og-uttrykk/,Ord og uttrykk,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+142,/fagstoff/ht2020/,Hovedtema 2020,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+143,/arrangementer/kommende/,Kommende arrangementer,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+144,/arrangementer/tidligere/,Tidligere arrangementer,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+145,/trepartsamarbeid/ansvarsfordeling/,Ansvarsfordeling,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+146,/trepartsamarbeid/sikkerhetsforum/,Sikkerhetsforum,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+147,/trepartsamarbeid/regelverksforum/,Regelverksforum,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+148,/om-oss/rolle-og-ansvarsomrade/,Rolle og ansvarsområde,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+149,/om-oss/organisasjon/,Organisasjon,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+150,/om-oss/internasjonalt-samarbeid/,Internasjonalt samarbeid,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+151,/om-oss/ny-ledige-stillinger/,Ledige stillinger,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+152,/kontakt-oss/kontaktpersoner/,Kontaktpersoner,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+153,/kontakt-oss/innrapportering-til-ptil/,Innrapportering til Ptil,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+154,/kontakt-oss/sok-om-innsyn/,Søk om innsyn,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+155,/kontakt-oss/varsle-oss/,Varsle oss,http://www.psa.no/?lang=en_US,31.301084518432617 seconds,2020-08-15
+156,/arrangementer/arrangementer/konstruksjonsdagen-2020/,Webinar: Konstruksjonsdagen 2020,http://www.psa.no/?lang=en_US,31.305084466934204 seconds,2020-08-15
+157,/arrangementer/arrangementer/webinar-forebygging-og-laring-etter-storulykker/,Webinar: Forebygging av storulykker – hva kan vi fortsatt lære?,http://www.psa.no/?lang=en_US,31.305084466934204 seconds,2020-08-15
+158,/arrangementer/arrangementer/no-3-forsta-det-norske-sikkerhetsregimet-2020/,Forstå det norske sikkerhetsregimet 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+159,/arrangementer/kommende/,Se alle arrangementer,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+160,/regelverk/,Regelverk,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+161,/tilsyn/,Tilsyn,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+162,/fagstoff/,Fagstoff,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+163,/tilsyn/tilsynsrapporter/2020/sut-tilsyn--seadrill--west-bollsta--boring-og-bronn/,SUT-tilsyn - Seadrill – West Bollsta – boring og brønn Publisert: 11. august 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+164,/tilsyn/tilsynsrapporter/2020/equinor-valemon-vedlikeholdsstyring-og-teknisk-sikkerhet/,Equinor - Valemon - vedlikeholdsstyring og teknisk sikkerhet Publisert: 4. august 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+165,/tilsyn/tilsynsrapporter/2020/floatel-floatel-endurance-styring-av-arbeidsmiljo/,Floatel – Floatel Endurance – styring av arbeidsmiljø - varsel om pålegg Publisert: 28. juli 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+166,/tilsyn/tilsynsrapporter/,Se alle tilsynsrapporter,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+167,/tilsyn/samtykker/2020/equinor-samtykke-til-bruk-avdeepsea-atlantic-pa-gullfaks/,Equinor – samtykke til bruk av Deepsea Atlantic på Gullfaks Publisert: 13. august 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+168,/tilsyn/samtykker/2020/equinor--samtykke-til-bruk-av-maersk-intrepid-pa-martin-linge-feltet/,Equinor – samtykke til bruk av Maersk Intrepid på Martin Linge-feltet Publisert: 30. juli 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+169,/tilsyn/samtykker/2020/okea-asa--samtykke-til-ombygging-og-bruk-av-draugen-long-term-power-dltp/,Okea ASA – samtykke til ombygging og bruk av Draugen Long Term Power (DLTP) Publisert: 23. juli 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+170,/tilsyn/samtykker/,Se alle samtykker,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+171,/tilsyn/viktige-meldinger/ptil-utsatt-for-phishingangrep/,"Ptil utsatt for phishingangrep Ptil ble torsdag 13. august 2020 utsatt for et phishingangrep, hvor en e-postkonto i Ptil ble misbrukt til å videresende e-poster med falskt innhold. Angrepet ble raskt stanset. Publisert: 14. august 2020",http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+172,/tilsyn/viktige-meldinger/ptil-gransker-hendelse-med-personskade-pa-karsto/,Ptil gransker hendelse med personskade på Kårstø Ptil har besluttet å iverksette gransking av en hendelse med personskade på Kårstø-anlegget 25. juli 2020. Publisert: 31. juli 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+173,/tilsyn/viktige-meldinger/ptil-gransker-hendelse-med-personskade-pa-mongstad/,Ptil gransker hendelse med personskade på Mongstad Ptil har besluttet å iverksette gransking av en hendelse med personskade på Mongstadanlegget 27. juni 2020. Publisert: 7. juli 2020,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+174,/kontakt-oss/lose-sider-kontakt-oss/bestill-magasiner/,Magasiner og publikasjoner,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+175,/nyhetsbrev/,Abonner på nyheter,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+176,mailto:postboks@ptil.no,postboks@ptil.no,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+177,/kontakt-oss/lose-sider-kontakt-oss/droppsone/,Droppsone,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+178,/kontakt-oss/lose-sider-kontakt-oss/personvernerklaring/,Personvernerklæring,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+179,http://www.twitter.com/ptilnorge,Twitter,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+180,http://www.facebook.com/petroleumstilsynet,Facebook,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+181,https://www.linkedin.com/company/petroleum-safety-authority-norway/?trk=hb_tab_compy_id_500669,Linkedin,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+182,https://www.youtube.com/user/petroleumstilsynet,Youtube,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+183,https://www.instagram.com/petroleumstilsynet/,Instagram,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+184,/,Ptil logo 2018 hvit,http://www.psa.no/?lang=en_US,31.305237770080566 seconds,2020-08-15
+185,/group,Our Group,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+186,/our-group/total-a-major-energy-operator,Who we are,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+187,/group/identity,Our Identity,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+188,/our-group/total-a-major-energy-operator,Total at a glance,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+189,/group/identity/governance,Governance,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+190,/group/identity/history,History,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+191,/group/identity/five-strong-values-embedded-our-dna,Values,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+192,/our-group/ethics/exemplary-behavior,Ethics policy,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+193,/worldwide-presence,Worldwide presence,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+194,/group/ambition,Our ambition,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+195,/group/ambition/challenges,Challenges,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+196,/group/ambition/commitments,Commitments,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+197,/group/strength,Our strength,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+198,/group/strength/employees,Our employees,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+199,/group/strength/integrated-business-model,Integrated business model,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+200,/group/strength/deep-geographic-roots,Geographic roots,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+201,/energy-expertise,Our expertise,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+202,/energy-expertise/exploration-production/oil-gas,Explore and produce,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+203,/energy-expertise/exploration-production/oil-gas,Oil & Gas,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+204,/energy-expertise/exploration-production/renewable-energies,Renewable energies,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+205,/energy-expertise/exploration-production/committed-future-bioenergies,Bioenergies,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+206,/energy-expertise/transformation-development/refining-petrochemical,Transform and develop,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+207,/energy-expertise/transformation-development/total-present-across-entire-low-carbon-electricity-value-chain,Electricity,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+208,/energy-expertise/transformation-development/refining-petrochemical,Refining & petrochemical,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+209,/energy-expertise/transformation-development/polymers,Polymers,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+210,/energy-expertise/transformation-development/specialty-chemicals/hutchinson-elastomers,Specialty chemicals,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+211,/energy-expertise/ship-market/our-trading-and-shipping-operations,Ship and market,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+212,/energy-expertise/ship-market/our-trading-and-shipping-operations,Trading & shipping,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+213,/energy-expertise/ship-market/products-services,Products & services,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+214,/projects,Projects and achievements,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+215,/commitment,Our commitment,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+216,/commitment/protecting-people/industrial-safety,Safety,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+217,/commitment/protecting-people/industrial-safety/culture,Safety culture,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+218,/commitment/protecting-people/industrial-safety/risk-management,Safety every day,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+219,/commitment/climate-change,Climate,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+220,/commitment/climate-change/climate-our-vision,Our vision,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+221,/commitment/climate-change/growing-natural-gas,Natural gas,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+222,/commitment/climate-change/low-carbon-electricity,Low-carbon electricity business,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+223,/commitment/climate-change/petroleum-products-energy-efficiency-biofuels,Petroleum products,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+224,/commitment/climate-change/carbon-neutrality,Carbon neutrality,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+225,/commitment/environmental-issues-challenges/environment-protection,Local environment,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+226,/commitment/environmental-issues-challenges/environment-protection/environmental-engineering,Our Strategy,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+227,/commitment/environmental-issues-challenges/environment-protection/air,Air,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+228,/commitment/environmental-issues-challenges/environment-protection/water,Water,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+229,/commitment/environmental-issues-challenges/environment-protection/protecting-biodiversity,Biodiversity,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+230,/commitment/environmental-issues-challenges/environment-protection/waste,Waste,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+231,/commitment/environmental-issues-challenges/environment-protection/anti-pollution-measures,Anti-pollution measures,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+232,/commitment/protecting-people/health,Health,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+233,/commitment/protecting-people/health/workplace,Health in the workplace,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+234,/commitment/protecting-people/health/products,Product design,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+235,/commitment/protecting-people/health/local-communities,Local well-being,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+236,/commitment/shared-development,Societal initiatives,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+237,/our-commitment/being-responsible-employer,Responsible employer,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+238,/commitment/shared-development/social-engineering,Local community support,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+239,/commitment/shared-development/supplier-relationships-underpinned-by-ethics-and-sustainability,Supplier relationships,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+240,/commitment/shared-development/local-economic-development,Local development,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+241,https://www.foundation.total/en,Total Foundation,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+242,/commitment/shared-development/access-to-energy,Energy Access,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+243,https://www.sustainable-performance.total.com/en,Societal responsibility,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+244,/customers,Customers,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+245,/customers/businesses,Businesses,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+246,https://www.aviation.total.com/,Aviation,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+247,https://www.acs.total.com/en,Total additives and special fuels,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+248,https://www.saftbatteries.com/,Batteries,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+249,http://www.bitumen.total.com/,Bitumen,https://www.total.com/en/investors,34.13650131225586 seconds,2020-08-15
+250,/customers/businesses/fuels,Fuels,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+251,/customers/businesses/heating,Heating,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+252,https://www.hutchinson.com/en,Specialty Chemicals,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+253,/,Businesses,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+254,/customers/businesses/energy-efficiency,Energy efficiency,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+255,https://www.totalspecialfluids.com/en,Special fluids,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+256,/customers/businesses/natural-gas-and-power,Natural gas and power,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+257,https://www.lubricants.total.com/,Lubricants,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+258,https://www.marinefuels.total.com/,Marine,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+259,https://www.polymers.total.com/,Polymers,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+260,/customers/businesses/solar-energy,Solar energy,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+261,/customers/consumers,Consumers,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+262,https://www.aviation.total.com/,Private aviation,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+263,/customers/consumers/fuels-and-lubricants,Fuels and lubricants,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+264,/customers/consumers/heating,Home heating,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+265,/customers/consumers/natural-gas-and-power,Natural gas and power,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+266,/customers/consumers/solar-energy,Solar solutions,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+267,/customers/consumers/service-stations,Service stations,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+268,/customers/consumers/service-stations,Find a location,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+269,/investors,Investors,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+270,/investors/why-invest-in-total,Why invest in Total?,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+271,/investors/results-investor-presentations,Results and Investor presentations,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+272,/investors/results-investor-presentations/results,Results,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+273,/investors/results-investor-presentations/investor-presentations,Investor presentations,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+274,/investors/results-investor-presentations/main-indicators,Main Indicators,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+275,/investors/shares-and-dividends,Shares and dividends,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+276,/investors/shares-and-dividends/dividends,Dividends,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+277,/investors/shares-and-dividends/Total-shares,Total Shares,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+278,/investors/shares-and-dividends/ownership-structure,Share Ownership Structure,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+279,/investors/shareholders-meetings,Annual Shareholders' meetings,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+280,/investors/individual-shareholders,Individual shareholders,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+281,/investors/individual-shareholders/buy-shares,Being a Total Shareholder,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+282,/investors/individual-shareholders/dedicated-team,Close Ties with Individual Shareholders,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+283,/investors/individual-shareholders/shareholder-publications,Shareholder publications,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+284,/investors/individual-shareholders/shareholders-events,Shareholders' Events,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+285,/investors/individual-shareholders/shareholders-club,Shareholders' Clubs,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+286,/investors/individual-shareholders/shareholders-advisory-committee,Shareholders' e-Advisory Committee,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+287,/investors/individual-shareholders/employee-shareholders,Employee shareholders,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+288,/investors/publications-and-regulated-information,Publications and regulated information,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+289,/investors/publications-and-regulated-information/reports-and-publications,Reports and Publications,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+290,/media/press-releases,Press Releases,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+291,/investors/publications-and-regulated-information/regulated-information,Regulated Information,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+292,/investors/publications-and-regulated-information/other-information,Other information,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+293,/media/colonne-3/info/calendar,Calendar,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+294,/investors/environment-social-governance,"Environment, Social, Governance",https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+295,/investors/questions-contacts,Investor contacts,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+296,/jobseekers,Jobseekers,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+297,https://www.careers.total.com/fr,Apply,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+298,https://www.careers.total.com/en/five-great-reasons-join-us,Five Reasons to join us,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+299,https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30080&siteid=6558#home,Our latest Offers,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+300,https://www.careers.total.com/en/our-commitments/recruitment-your-application-induction,"Recruitment, from your Application to Induction",https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+301,/group/strength/employees,Our Employees: The Energy that Drives Us Forward,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+302,/our-commitment/being-responsible-employer,Being a Responsible Employer,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+303,https://www.careers.total.com/en,Apply,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+304,/home-media,Media,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+305,/media/news,News,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+306,/media/press-releases,Our Press Releases,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+307,/media/latest-news,Our Latest News,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+308,/media/special-features,Our Special Features,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+309,/media/media,Media Library,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+310,/media/media,Online media,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+311,https://www.flickr.com/photos/total_group/,Download media,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+312,/group/identity/governance/biographies,Biographies,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+313,/media/colonne-3/check-out-our-official-channels-social-media,Social Media,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+314,/media/publications,Publications,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+315,/media/media-relations,Press Contacts,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+316,/media/news,Press Releases,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+317,/worldwide-presence,Our presence in the world,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+318,/contact-form,Contact,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+319,/investors,English EN,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+320,/fr/actionnaires,Français FR,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+321,/investors/results-investor-presentations/results,"Open infographics Second quarter 2020 results Thursday, July 30, 2020 Find out more",https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+322,/investors/shareholders-meetings,"Open infographics Shareholders’ Meeting of May 29, 2020 Find out more",https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+323,/media/news/total-adopts-new-climate-ambition-get-net-zero-2050,Open infographics Total adopts a new Climate Ambition to Get to Net Zero by 2050 Find out more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+324,/,Home,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+325,/media/news/communiques/total-closes-the-sale-of-non-core-uk-assets-to-neo-energy,Total Closes the Sale of Non-Core UK Assets to NEO Energy,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+326,/media/news/communiques/total-maintains-the-second-2020-interim-dividend-at-eu066share,Total maintains the second 2020 interim dividend at €0.66/share,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+327,/media/news/total-gabon-divests-its-portfolio-mature-non-operated-assets,Total Gabon Divests its Portfolio of Mature Non-Operated Assets,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+328,/media/press-releases,All press releases,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+329,/investors/shareholders-webzine-july-2020,Shareholders' Webzine – July 2020,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+330,/investors/results-investor-presentations/results,"First Quarter 2020 Results – May 5, 2020",https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+331,/investors/individual-shareholders/individual-shareholders-explain-why-they-invested-total,Shareholders' Profiles,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+332,https://total.publispeak.com/shareholders-newsletter-63/,The Shareholders’ Newsletter #63,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+333,/sites/g/files/nytnzq111/files/atoms/files/2019_total_universal_registration_document.pdf,2019 Universal Registration Document,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+334,/sites/g/files/nytnzq111/files/atoms/files/2019-total-form-20-f.pdf,2019 Form 20-F,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+335,/media/colonne-3/info/calendar,All events,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+336,/investors/why-invest-in-total,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+337,/investors/shares-and-dividends,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+338,/investors/results-investor-presentations,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+339,/investors/shareholders-meetings,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+340,/investors/environment-social-governance,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+341,/investors/individual-shareholders/dedicated-team,Find out more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+342,/investors/publications-and-regulated-information/reports-and-publications,Reports and publications,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+343,/investors/publications-and-regulated-information/press-releases,Press releases,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+344,/investors/publications-and-regulated-information/regulated-information,Regulated information,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+345,/investors/publications-and-regulated-information,Find out more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+346,/investors/individual-shareholders/buy-shares,Being a Total shareholder,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+347,/investors/individual-shareholders/dedicated-team,Close ties with individual shareholders,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+348,/investors/individual-shareholders/shareholders-events,Shareholder Events,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+349,/investors/individual-shareholders/shareholders-club,Total Shareholders' Club,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+350,/investors/individual-shareholders,Learn more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+351,https://www.total.com/sites/g/files/nytnzq111/files/atoms/files/2019_total_universal_registration_document.pdf,Download,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+352,https://www.total.com/sites/g/files/nytnzq111/files/atoms/files/2019-total-form-20-f.pdf,Download,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+353,https://total.com/sites/g/files/nytnzq111/files/documents/2020-07/Factbook_2019.xlsx,Download the Excel,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+354,https://www.total.com/sites/g/files/nytnzq111/files/documents/2020-07/Factbook_2019.pdf,Download,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+355,https://total.publispeak.com/shareholders-newsletter-63/,Accessible version,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+356,https://www.total.com/sites/g/files/nytnzq111/files/documents/2020-06/TOTAL-JDA63-EN-01.pdf,Download,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+357,https://www.total.com/sites/g/files/nytnzq111/files/documents/2020-07/guide-de-lactionnaire-en.pdf,Find out more,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+358,/legal,Legal,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+359,/en/privacy,Privacy,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+360,/en/accessibility,Accessibility,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+361,/site-map,Sitemap,https://www.total.com/en/investors,34.140501260757446 seconds,2020-08-15
+362,http://www.akerbp.com//,Hjem,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+363,https://www.akerbp.com/nyheter/,Nyheter,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+364,https://www.akerbp.com/nyheter/,Nyhetsarkiv,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+365,https://www.akerbp.com/nyheter/mediekontakt/,Mediekontakt,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+366,https://www.akerbp.com/nyheter/bildearkiv/,Bildearkiv,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+367,https://www.akerbp.com/nyheter/kulturminne-valhall/,Kulturminne Valhall,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+368,https://www.akerbp.com/nyheter/konsekvensutredninger/,Konsekvensutredninger,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+369,https://www.akerbp.com/investor/,Investor,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+370,https://www.akerbp.com/investor/aksjen/kursutvikling/,Aksjen,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+371,https://www.akerbp.com/investor/aksjen/fakta-om-aksjen/,Fakta om aksjen,https://www.akerbp.com/nyheter/,35.25588846206665 seconds,2020-08-15
+372,https://www.akerbp.com/investor/aksjen/generalforsamling/,Generalforsamling,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+373,https://www.akerbp.com/investor/aksjen/kursutvikling/,Kursutvikling,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+374,https://www.akerbp.com/investor/aksjen/kontoforer-og-revisor/,Kontofører og revisor,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+375,https://www.akerbp.com/investor/aksjen/primaerinnsidere/,Primærinnsidere,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+376,https://www.akerbp.com/prospekt-o-l/,Prospekt/tilbudsdok.,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+377,https://www.akerbp.com/investor/aksjen/storste-aksjonaerer/,Største aksjonærer,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+378,https://www.akerbp.com/investor/aksjen/utbytte-og-tilbakekjop/,Utbytte og tilbakekjøp,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+379,https://www.akerbp.com/analytikere/,Analytikere,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+380,https://www.akerbp.com/investor/gjeld-og-obligasjoner/,Gjeld og kredittrating,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+381,https://www.akerbp.com/skatt/,Skatt,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+382,https://www.akerbp.com/investor/borsmeldinger/,Børsmeldinger,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+383,https://www.akerbp.com/investor/finansiell-kalender/,Finansiell kalender,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+384,https://www.akerbp.com/investor/rapporter/,Rapporter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+385,https://www.akerbp.com/investor/rapporter/kvartals-og-arsrapporter/,Kvartals- og årsrapporter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+386,https://www.akerbp.com/investor/rapporter/reserverapporter/,Reserverapporter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+387,https://www.akerbp.com/investor/rapporter/baerekraftsrapporter/,Bærekraftsrapporter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+388,https://www.akerbp.com/investor/presentasjoner/,Presentasjoner,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+389,https://www.akerbp.com/investor/eierstyring-og-selskapsledelse/,Eierstyring og selskapsledelse,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+390,https://www.akerbp.com/investor/eierstyring-og-selskapsledelse/redegjorelse-for-esl/,Redegjørelse for ESL,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+391,https://www.akerbp.com/investor/eierstyring-og-selskapsledelse/vedtekter/,Vedtekter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+392,https://www.akerbp.com/investor/eierstyring-og-selskapsledelse/styret/,Styret,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+393,https://www.akerbp.com/investor/eierstyring-og-selskapsledelse/konsernledelse/,Konsernledelse,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+394,https://www.akerbp.com/investor/investorkontakter/,Investorkontakt,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+395,https://www.akerbp.com/var-virksomhet/,Vår virksomhet,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+396,https://www.akerbp.com/assets/,Produksjon,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+397,https://www.akerbp.com/var-virksomhet/leting/,Leting,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+398,http://www.akerbp.com//kart/,Lisenser,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+399,https://www.akerbp.com/baerekraft-i-aker-bp/,Bærekraft i Aker BP,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+400,https://www.akerbp.com/om-oss/,Om oss,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+401,https://www.akerbp.com/om-oss/styret/,Styret,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+402,https://www.akerbp.com/om-oss/organisasjon/,Organisasjon,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+403,https://www.akerbp.com/om-aker-bp/,Om Aker BP,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+404,https://www.akerbp.com/historien-om-aker-bp/,Historien om Aker BP,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+405,https://www.akerbp.com/om-oss/var-visjon-og-vare-verdier/,Vår visjon og våre verdier,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+406,https://www.akerbp.com/samfunnsansvar/,Samfunn,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+407,https://www.akerbp.com/om-oss/hms/,HMS,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+408,https://www.akerbp.com/om-oss/hms/hms-i-akerbp/,HMS i Aker BP,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+409,https://www.akerbp.com/krav-for-utreise/,Krav før utreise,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+410,https://www.akerbp.com/samfunnsansvar/miljo/,Miljø,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+411,https://www.akerbp.com/samfunnsansvar/risikostyring/,Sikkerhet,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+412,https://www.akerbp.com/samfunnsansvar/beredskap/,Beredskap,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+413,https://www.akerbp.com/om-oss/code-of-conduct/,Code of Conduct,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+414,https://www.akerbp.com/om-oss/code-of-conduct/aker-bp-anti-corruption-policy/,Aker BP Anti-Corruption Policy,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+415,https://www.akerbp.com/om-oss/anskaffelser/,Anskaffelser,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+416,https://www.akerbp.com/informasjon-og-betingelser-for-fakturering/,Informasjon og betingelser for fakturering,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+417,https://www.akerbp.com/om-oss/anskaffelser/registrering-av-midlertidig-utstyr/,Registrering av midlertidig utstyr,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+418,https://www.akerbp.com/rekruttering/ledige-stillinger/,Rekruttering,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+419,https://www.akerbp.com/rekruttering/ledige-stillinger/,Ledige stillinger,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+420,https://www.akerbp.com/studenter-og-nyutdannede/,"Studenter, nyutdannede og lærlinger",https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+421,https://www.akerbp.com/digital-graduates/,Digital graduates,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+422,https://www.akerbp.com/kontakt-oss/,Kontakt oss,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+423,https://www.akerbp.com/fakturaadresse/,Fakturaadresse,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+424,https://trustcom.pwc.no/AkerBP?language=nb,Varsle om uønsket hendelse,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+425,https://www.akerbp.com/kontakt-oss/varsle-om-forhold-rundt-datasikkerhet/,Varsle om forhold rundt datasikkerhet,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+426,http://www.facebook.com/sharer.php?u=https://www.akerbp.com/nyheter/,Facebook,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+427,http://twitter.com/share?url=https://www.akerbp.com/nyheter/&text=Nyheter%20,Twitter,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+428,mailto:?subject=Nyheter&body=%20https://www.akerbp.com/nyheter/,email,https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+429,https://www.akerbp.com/ine-dolve-ansatt-som-ny-driftsdirektor-i-aker-bp/,Ine Dolve ansatt som ny driftsdirektør i Aker BP 17. juli 2020 Ine Dolve er ansatt som ny driftsdirektør (SVP Operations & Asset Development) i Aker BP. Hun vil være en del av selskapets hovedledelse. Dolve kommer fra stillingen som ansvarlig for […],https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+430,https://www.akerbp.com/resultat-for-andre-kvartal-2020/,"Resultat for andre kvartal 2020 14. juli 2020 Aker BP satte ny produksjonsrekord og leverte god drift i andre kvartal. Selskapets utbyggingsprosjekter er i rute, inkludert en vellykket oppstart av første brønn i Ærfugl fase 2-prosjektet. Etter at […]",https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+431,https://www.akerbp.com/second-quarter-2020-trading-update/,Second quarter 2020 trading update 8. juli 2020 Aker BP will publish its financial report for the second quarter 2020 on Tuesday 14 July 2020. The company issues this statement to summarize its production and sales volumes and […],https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+432,https://www.akerbp.com/invitation-to-aker-bps-q2-2020-conference-call/,Invitation to Aker BP’s Q2 2020 conference call 6. juli 2020 Aker BP will publish its financial results for the second quarter 2020 on Tuesday 14 July 2020 at 07:00 (CEST). A conference call will be hosted at 08:30 (CEST). The […],https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+433,https://www.akerbp.com/overleverer-plan-for-utbygging-og-drift-for-hod/,Overleverer plan for utbygging og drift for Hod 24. juni 2020 Aker BP og Pandion Energy har i dag overlevert Plan for utbygging og drift (PUD) for Hod til Olje- og energidepartementet. Hod-feltet bygges ut i samarbeid med Aker BPs alliansepartnere […],https://www.akerbp.com/nyheter/,35.25743556022644 seconds,2020-08-15
+434,https://www.akerbp.com/nyheter/page/2/,2,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+435,https://www.akerbp.com/nyheter/page/3/,3,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+436,https://www.akerbp.com/nyheter/page/170/,170,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+437,https://www.akerbp.com/nyheter/page/2/,Neste »,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+438,mailto:post@akerbp.com,post@akerbp.com,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+439,http://www.akerbp.com/om-oss/var-visjon-og-vare-verdier/,Vår visjon og våre verdier,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+440,mailto:kommunikasjon@akerbp.com,Kommunikasjon,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+441,https://web.onevoice.no/akerbp/,Beredskapsweb,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+442,https://trustcom.pwc.no/AkerBP?language=en,Varslingstjeneste,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+443,mailto:tore.langballe@akerbp.com,E-post,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+444,mailto:ole.johan.faret@akerbp.com,E-post,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+445,mailto:IR@akerbp.com,E-post,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+446,/retningslinjer-for-personvern/,personvern,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+447,http://www.headspin.no,Headspin,https://www.akerbp.com/nyheter/,35.25946259498596 seconds,2020-08-15
+448,/results,eng,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+449,http://www.petoro.no/resultater,Resultater,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+450,http://www.petoro.no/om-petoro,Om Petoro,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+451,http://www.petoro.no/om-petoro/organisasjon,Organisasjon,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+452,http://www.petoro.no/om-petoro/hovedoppgaver,Hovedoppgaver,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+453,http://www.petoro.no/om-petoro/sd%c3%b8e-fakta,SDØE-fakta,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+454,http://www.petoro.no/om-petoro/visjon-strategi-og-verdier,"Visjon, strategi og verdier",https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+455,http://www.petoro.no/om-petoro/eierstyring-ledelse,"Eierstyring, ledelse",https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+456,http://www.petoro.no/om-petoro/etiske-retningslinjer,Etiske retningslinjer,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+457,http://www.petoro.no/om-petoro/samfunnsansvar,Samfunnsansvar,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+458,http://www.petoro.no/om-petoro/etablering-av-sd%c3%b8e-og-petoro,Etablering av SDØE og Petoro,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+459,http://www.petoro.no/nyheter,Nyheter,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+460,http://www.petoro.no/media,Media,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+461,http://www.petoro.no/karriere,Karriere,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+462,http://www.petoro.no/kontakt,Kontakt,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+463,/Hva%20vi%20sier/Kvartalsrapporter/2020/Petoro_Kvartalsrapport_Q2-2020.pdf,Petoro_Kvartalsrapport_Q2-2020,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+464,/Hva%20vi%20sier/Kvartalsrapporter/2020/Petoro_Kvartalsrapport_Q1-2020.pdf,Petoro_Kvartalsrapport_Q1-2020,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+465,/petoro-aarsrapport/2019,Årsrapport 2019,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+466,/Hva vi sier/Kvartalsrapporter/2019/Petoro_Kvartalsrapport_Q3-2019.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+467,/Hva vi sier/Kvartalsrapporter/2019/Petoro_Kvartalsrapport_Q2-2019.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+468,/Hva vi sier/Kvartalsrapporter/2019/Petoro_Kvartalsrapport_Q1-2019.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+469,https://www.petoro.no/nyheter/-06-03-2020-pressemelding-petoro-%C3%A5rsresultat-2019,SDØE-resultater 2019,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+470,https://www.petoro.no/nyheter/-30-10-2019-pressemelding-3-kvartal-2019,Resultat SDØE 3. kvartal 2019,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+471,https://www.petoro.no/nyheter/-08-08-2019-pressemelding-2-kvartal-2019,Resultat SDØE 2. kvartal 2019,https://www.petoro.no/publisert/pressemeldinger,39.88782787322998 seconds,2020-08-15
+472,https://www.petoro.no/nyheter/-09-05-2019-pressemelding-1-kvartal-2019,Resultat SDØE 1. kvartal 2019,https://www.petoro.no/publisert/pressemeldinger,39.88882517814636 seconds,2020-08-15
+473,/petoro-aarsrapport/2018,Årsrapport 2018,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+474,/Hva vi sier/Kvartalsrapporter/2018/Petoro_Kvartalsrapport_Q3-2018.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+475,/Hva vi sier/Kvartalsrapporter/2018/Petoro_Kvartalsrapport_Q2-2018.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+476,/Hva vi sier/Kvartalsrapporter/2018/Petoro_Kvartalsrapport_Q1-2018.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+477,https://www.petoro.no/nyheter/-07-03-2019-pressemelding-petoro-%C3%A5rsresultat-2018,SDØE-resultater 2018,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+478,https://www.petoro.no/nyheter/-01-11-2018-pressemelding-3-kvartal-2018,Resultat SDØE 3. kvartal 2018,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+479,https://www.petoro.no/nyheter/-02-08-2018-pressemelding-2-kvartal-2018,Resultat SDØE 2. kvartal 2018,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+480,https://www.petoro.no/nyheter/-09-05-2018-pressemelding-1-kvartal-2018,Resultat SDØE 1. kvartal 2018,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+481,https://www.petoro.no/petoro-aarsrapport/2017,Årsrapport 2017,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+482,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2017/Petoro_Kvartalsrapport_Q3-2017.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+483,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2017/Petoro_Kvartalsrapport_Q2-2017.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+484,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2017/Petoro_Kvartalsrapport_Q1-2017.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+485,https://www.petoro.no/nyheter/-15-03-2017-pressemelding-petoro-%C3%A5rsresultat-2016,SDØE-resultater 2016,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+486,https://www.petoro.no/nyheter/-01-11-2017-pressemelding-3-kvartal-2017,Pressemelding 3. kvartal 2017,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+487,https://www.petoro.no/nyheter/-03-08-2017-pressemelding-2-kvartal-2017,Pressemelding 2. kvartal 2017,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+488,https://www.petoro.no/nyheter/-10-05-2017-pressemelding-1-kvartal-2017,Pressemelding 1. kvartal 2017,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+489,https://www.petoro.no/petoro-aarsrapport/2016,Årsrapport 2016,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+490,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2016/Petoro_Kvartalsrapport_Q3-2016.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+491,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2016/Petoro_Kvartalsrapport_Q2-2016.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+492,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q1-2016.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+493,https://www.petoro.no/nyheter/-16-03-2016-pressemelding-petoro-%C3%A5rsresultat-2015,SDØE-resultater 2015,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+494,https://www.petoro.no/nyheter/-03-11-2016-pressemelding-3-kvartal-2016,Pressemelding 3. kvartal 2016,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+495,https://www.petoro.no/nyheter/-04-08-2016-pressemelding-2-kvartal-2016,Pressemelding 2. kvartal 2016,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+496,https://www.petoro.no/petoro-aarsrapport/2015,Årsrapport 2015,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+497,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2015/Petoro_Kvartalsrapport_Q3_2015.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+498,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2015/Petoro_Kvartalsrapport_Q2_2015.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+499,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2015/Petoro_Kvartalsrapport_Q1-2015.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+500,https://www.petoro.no/nyheter/-13-03-15-sd%C3%B8e-resultater-2014-,SDØE-resultater 2014,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+501,https://www.petoro.no/nyheter/-03-11-2015-pressemelding-3-kvartal-2015-,Pressemelding 3. kvartal 2015,https://www.petoro.no/publisert/pressemeldinger,39.88883852958679 seconds,2020-08-15
+502,https://www.petoro.no/nyheter/-06-08-2015-pressemelding-2-kvartal-2015-,Pressemelding 2. kvartal 2015,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+503,https://www.petoro.no/nyheter/-05-05-2015-pressemelding-1-kvartal-2015,Pressemelding 1. kvartal 2015,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+504,https://www.petoro.no/petoro-aarsrapport/2014,Årsrapport 2014,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+505,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2014/Petoro_Kvartalsrapport_Q3_2014_web.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+506,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2014/Petoro_Kvartalsrapport_Q2-2014.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+507,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2014/Petoro_Kvartalsrapport_Q1-2014.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+508,https://www.petoro.no/nyheter/-27-02-14-sd%C3%B8e-resultater-2013-,SDØE-resultater 2013,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+509,https://www.petoro.no/nyheter/-04-11-2014-3-kvartal-2014,Pressemelding 3. kvartal 2014,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+510,https://www.petoro.no/nyheter/-07-08-2014-2-kvartal-2014,Pressemelding 2. kvartal 2014,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+511,https://www.petoro.no/nyheter/-08-05-2014-1-kvartal-2014,Pressemelding 1. kvartal 2014,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+512,https://www.petoro.no/petoro-aarsrapport/2013/forside,Årsrapport 2013,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+513,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2013/Petoro_Kvartalsrapport_Q3_2013_web.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+514,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2013/Petoro_Kvartalsrapport_Q2-2013.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+515,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2013/Petoro_Kvartalsrapport_Q1-2013.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+516,https://www.petoro.no/nyheter/-26-02-13-,SDØE-resultater 2012,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+517,https://www.petoro.no/nyheter/-31-10-13-sd%C3%B8e-per-3-kvartal-,Pressemelding 3. kvartal 2013,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+518,https://www.petoro.no/nyheter/-30-07-13-sd%C3%B8e-1-halv%C3%A5r-2-kvartal-,Pressemelding 2. kvartal 2013,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+519,https://www.petoro.no/nyheter/-03-05-13-,Pressemelding 1. kvartal 2013,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+520,https://www.petoro.no/petoro-aarsrapport/2012,Årsrapport 2012,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+521,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2012/Petoro_Kvartalsrapport_Q3-2012.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+522,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q2-2012.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+523,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q1-2012.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+524,https://www.petoro.no/nyheter/-28-02-12-,SDØE-resultater 2011,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+525,https://www.petoro.no/nyheter/-30-10-12-,Pressemelding 3. kvartal 2012,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+526,https://www.petoro.no/nyheter/-31-07-12-,Pressemelding 2. kvartal 2012,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+527,https://www.petoro.no/nyheter/-09-05-12-,Pressemelding 1. kvartal 2012,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+528,http://petoro.aarsrapport.destinet.no/forside/,Årsrapport 2011,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+529,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q3-2011.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+530,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q1-2011.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+531,https://www.petoro.no/nyheter/-23-02-11-,SDØE-resultater 2010,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+532,https://www.petoro.no/nyheter/-28-10-11-,Pressemelding 3. kvartal 2011,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+533,https://www.petoro.no/nyheter/-02-08-11-,Pressemelding 2. kvartal 2011,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+534,https://www.petoro.no/nyheter/-09-05-11-,Pressemelding 1. kvartal 2011,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+535,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2010.pdf,Årsrapport 2010,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+536,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q3-2010.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+537,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q2-2010.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+538,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/Petoro_Kvartalsrapport_Q1-2010.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+539,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2009.pdf,Årsrapport 2009,https://www.petoro.no/publisert/pressemeldinger,39.88985228538513 seconds,2020-08-15
+540,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2009/Petoro_tredje_kvartalsrapport_09.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+541,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2009/Petoro_andre_kvartal_09_web.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+542,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2009/Petoro_foerste_kvartal_09_web.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+543,Ãrsrapport 2017 Kvartalsrapport 3. kvartal Kvartalsrapport 2. kvartal Kvartalsrapport 1. kvartal,Årsrapport 2008,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+544,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2008/petoro_tredje_kvartal2008.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+545,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2008/petoro_2kvartal_siste08.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+546,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2008/Petoro_Kvartal1_08_NOR.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+547,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2007.pdf,Årsrapport 2007,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+548,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2007/Petoro_Kvartal3_NOR2007.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+549,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2007/Petoro_Kvartal2_NOR2007.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+550,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2007/SDOE_1ste_kvartal_2007.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+551,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2006.pdf,Årsrapport 2006,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+552,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2006/norskpetoro_3_kv2006.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+553,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2006/petoro2K_2006.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+554,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2006/Petoro_1_kv_2006_NORSK.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+555,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2005.pdf,Årsrapport 2005,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+556,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2005/Norsk_PDF3q052005.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+557,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2005/2__kv_Petoro_norsk2005.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+558,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2005/petoro_1kv_2005_norsk.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+559,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2004.pdf,Årsrapport 2004,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+560,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2004/tredjekvartal04.pdf,Kvartalsrapport 3. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+561,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2004/rapp2_2004.pdf,Kvartalsrapport 2. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+562,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2004/Petoro_1__kvartal_20041.pdf,Kvartalsrapport 1. kvartal,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+563,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2003.pdf,Årsrapport 2003,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+564,https://www.petoro.no/Hva%20vi%20sier/Kvartalsrapporter/2003/Pressemelding%20tredje%20kvartal%202003%20_endelig_.pdf,Kvartalsrapport 3. kvartalâ,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+565,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2002.pdf,Årsrapport 2002,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+566,https://www.petoro.no/Hva%20vi%20sier/%C3%A5rsrapport/Aarsrapport_2001.pdf,Årsrapport 2001,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+567,tel:51502000,51Â 50Â 20Â 00,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+568,mailto:post@petoro.no,post@petoro.no,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+569,mailto:faktura@petoro.no,faktura@petoro.no,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+570,/om-petoro/personvernerkl%c3%a6ring,PersonvernerklÃ¦ring,https://www.petoro.no/publisert/pressemeldinger,39.890849590301514 seconds,2020-08-15
+571,/,"Kathimerini English Edition Ethnarhou Makariou Avenue & 2, Falireos Street",http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+572,https://www.kathimerini.gr/,Greek Edition,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+573,/classifieds,Classifieds,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+574,/subscriptions,Subscriptions,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+575,https://twitter.com/ekathimerini,Twitter,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+576,https://www.facebook.com/ekathimerinicom,Facebook,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+577,/news,NEWS,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+578,/business,BUSINESS,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+579,/comment,COMMENT,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+580,/life,LIFE,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+581,/whats-on,WHAT’S ON,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+582,/sports,SPORTS,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+583,/community,COMMUNITY,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+584,/survival-guide,SURVIVAL GUIDE,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+585,/special-report,SPECIAL REPORT,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+586,/multimedia,MULTIMEDIA,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+587,/255905/article/ekathimerini/news/during-eu-teleconference-greece-and-germany-disagree-on-turkey-stance,"During EU teleconference, Greece and Germany disagree on Turkey stance",http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+588,/255902/article/ekathimerini/news/dendias-hopes-to-avoid-conflict-in-eastern-mediterranean-sea,Dendias hopes to avoid conflict in eastern Mediterranean Sea,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+589,/tags/weather,Weather,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+590,/255867/article/ekathimerini/news/storms-on-saturday-in-northern-greece,Storms on Saturday in northern Greece,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+591,/tags/turkey,Turkey,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+592,/255906/article/ekathimerini/news/us-secretary-of-state-pompeo-to-meet-turkeys-cavusoglu,US Secretary of State Pompeo to meet Turkey's Cavusoglu,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+593,/tags/eu,EU,http://www.ekathimerini.com/,42.55326724052429 seconds,2020-08-15
+594,/authors/yannis-palaiologos,YANNIS PALAIOLOGOS,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+595,/255904/article/ekathimerini/news/dendias-turkey-the-onlyone-to-blame-for-east-med-tension,Dendias: Turkey the only one to blame for East Med tension,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+596,/255903/article/ekathimerini/news/macron-talks-to-trump-about-east-med,Macron talks to Trump about East Med,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+597,/255847/article/ekathimerini/business/incentives-to-use-electric-cars,Incentives to use electric cars,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+598,/authors/prokopis-hatzinikolaou,PROKOPIS HATZINIKOLAOU,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+599,/tags/business,Business,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+600,/255896/article/ekathimerini/business/greek-fintech-viva-wallet-hires-jefferies-for-500-mln-euro-fundraising-say-sources,"Greek fintech Viva Wallet hires Jefferies for 500 mln euro fundraising, say sources",http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+601,/tags/tourism,Tourism,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+602,/255839/article/ekathimerini/business/the-latest-addition-to-athens-hotels,The latest addition to Athens hotels,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+603,/authors/dimitris-delevengos,DIMITRIS DELEVENGOS,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+604,/255852/article/ekathimerini/business/tourism-expectations-have-been-lowered,Tourism expectations have been lowered,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+605,/authors/ilias-bellos,ILIAS BELLOS,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+606,/255843/article/ekathimerini/business/tourism-campaign-touts-safe-open-greece-as-anti-pandemic-restrictions-expand,"Tourism campaign touts safe, open Greece as anti-pandemic restrictions expand",http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+607,/255846/opinion/ekathimerini/comment/political-correctness-and-the-continental-shelf,‘Political correctness’ and the continental shelf,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+608,/authors/angelos-stangos,ANGELOS STANGOS,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+609,/tags/archaeology,Archaeology,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+610,/255724/gallery/ekathimerini/life/an-ancient-temple-at-a-five-star-location,An ancient temple at a five-star location,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+611,/authors/maro-vasiliadou,MARO VASILIADOU,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+612,/tags/obituary,Obituary,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+613,/255743/article/ekathimerini/life/influential-greek-poet-christianopoulos-dies,Influential Greek poet Christianopoulos dies,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+614,/tags/us,US,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+615,/255857/article/ekathimerini/community/halc-ajc-ask-pompeo-to-decry-unacceptable-turkish-challenge-to-greek-cypriot-sovereignty,"HALC, AJC ask Pompeo to decry ‘unacceptable’ Turkish challenge to Greek-Cypriot sovereignty",http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+616,/tags/interview,Interview,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+617,/255688/article/ekathimerini/community/natalia-linos-scientists-have-been-under-attack,Natalia Linos: Scientists have been under attack,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+618,/authors/katerina-sokou,KATERINA SOKOU,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+619,/tags/diaspora,Diaspora,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+620,/255731/article/ekathimerini/community/former-ambassador-burns-endorses-natalia-linos-for-congress,Former ambassador Burns endorses Natalia Linos for Congress,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+621,/tags/basketball,Basketball,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+622,/255754/article/ekathimerini/sports/antetokounmpo-ejected-for-head-butt-as-bucks-beat-wizards,Antetokounmpo ejected for head-butt as Bucks beat Wizards,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+623,/tags/soccer,Soccer,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+624,/255699/article/ekathimerini/sports/liverpool-sign-greece-defender-tsimikas-from-olympiakos,Liverpool sign Greece defender Tsimikas from Olympiakos,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+625,/255661/article/ekathimerini/sports/tsimikas-to-sign-four--or-five-year-contract-with-liverpool,Tsimikas to sign four- or five-year contract with Liverpool,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+626,/255272/article/ekathimerini/whats-on/stephen-antonakos--the-russians--athens--to-october-18,Stephen Antonakos & The Russians | Athens | To October 18,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+627,/255824/article/ekathimerini/whats-on/roger-ballen--thessaloniki--to-october-4,Roger Ballen | Thessaloniki | To October 4,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+628,/255823/article/ekathimerini/whats-on/international-photo-festival--crete--to-august-18,International Photo Festival | Crete | To August 18,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+629,/255821/article/ekathimerini/whats-on/watersong--epidaurus--august-14--15,Watersong | Epidaurus | August 14 & 15,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+630,/255567/article/ekathimerini/whats-on/utopia-revisited--thessaloniki--to-september-13,Utopia Revisited | Thessaloniki | To September 13,http://www.ekathimerini.com/,42.554266691207886 seconds,2020-08-15
+631,/255563/article/ekathimerini/whats-on/the-great-race--athens--august-7,The Great Race | Athens | August 7,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+632,/255564/article/ekathimerini/whats-on/beethovens-250th--athens--august-8,Beethoven’s 250th | Athens | August 8,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+633,/authors/angelos-stangos,Angelos Stangos,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+634,/authors/editorial,Editorial,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+635,/255845/opinion/ekathimerini/comment/staying-safe-until-next-year,"Staying safe, until next year",http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+636,/authors/tom-ellis,Tom Ellis,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+637,/255787/opinion/ekathimerini/comment/erdogan-playing-with-fire,Erdogan playing with fire,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+638,/255795/opinion/ekathimerini/comment/wake-up-call,Wake-up call,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+639,/255782/opinion/ekathimerini/comment/turkey-and-the-west,Turkey and the West,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+640,/authors/costas-iordanidis,Costas Iordanidis,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+641,/255723/opinion/ekathimerini/comment/navigating-under-pressure,Navigating under pressure,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+642,/authors/alexis-papachelas,Alexis Papachelas,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+643,/255739/opinion/ekathimerini/comment/carefully-planned-response,Carefully planned response,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+644,/255734/opinion/ekathimerini/comment/effective-deterrence,Effective deterrence,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+645,/255866/article/ekathimerini/news/greece-to-announce-curfews-on-three-islands-report-says,"Greece to announce curfews on three islands, report says",http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+646,/255874/article/ekathimerini/news/new-covid-19-measures-imposed-as-pm-entreats-young,New Covid-19 measures imposed as PM entreats young,http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+647,/255864/article/ekathimerini/news/dendias-to-present-photos-video-from-greek-turkish-frigates-collision,"Dendias to present photos, video from Greek-Turkish frigates collision",http://www.ekathimerini.com/,42.55526328086853 seconds,2020-08-15
+648,/255870/article/ekathimerini/news/erdogan-cavusoglu-warn-greece-over-oruc-reis,"Erdogan, Cavusoglu warn Greece over Oruc Reis",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+649,/255873/article/ekathimerini/news/eu-holding-urgent-talks-on-greece-turkey-energy-dispute,EU holding urgent talks on Greece-Turkey energy dispute,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+650,/255898/article/ekathimerini/news/two-new-covid-19-deaths-254-new-infections-confirmed,"Two new Covid-19 deaths, 254 new infections confirmed",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+651,/255834/article/ekathimerini/news/erdogan-says-greece-attacked-oruc-reis-got-their-first-answer-today,"Erdogan says Greece attacked Oruc Reis, ‘got their first answer today’",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+652,/255671/article/ekathimerini/news/greece-to-announce-new-measures-to-curb-infections,Greece to announce new measures to curb infections,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+653,/255702/article/ekathimerini/news/greeces-armed-forces-placed-on-high-alert,Greece's armed forces placed on high alert,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+654,/255805/article/ekathimerini/news/civil-aviation-extends-flight-restrictions-through-aug-31,Civil Aviation extends flight restrictions through Aug. 31,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+655,/255707/article/ekathimerini/news/greece-to-require-negative-coronavirus-test-for-entry-from-sweden-spain-belgium,"Greece to require negative coronavirus test for entry from Sweden, Spain, Belgium",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+656,/255732/article/ekathimerini/news/196-new-covid-19-infections-reported-in-greece-one-death,196 new Covid-19 infections reported in Greece; one death,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+657,/255134/article/ekathimerini/community/pm-meets-tom-hanks-now-a-greek-citizen,"PM meets Tom Hanks, now a Greek citizen",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+658,/254880/article/ekathimerini/sports/turkish-nba-star-kanter-says-thank-you-greece,Turkish NBA star Kanter says ‘Thank you Greece’,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+659,/254951/article/ekathimerini/news/armed-forces-on-alert-over-turkish-exploration-off-kastellorizo,Armed forces on alert over Turkish exploration off Kastellorizo,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+660,/254786/article/ekathimerini/news/man-in-northern-greece-found-with-thousands-of-ancient-coins-jewellery,"Man in northern Greece found with thousands of ancient coins, jewellery",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+661,/254978/article/ekathimerini/news/turkey-escalation-places-greece-on-alert,Turkey escalation places Greece on alert,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+662,/255157/article/ekathimerini/comment/haghia-sophia-being-rendered-closed-and-silent,Haghia Sophia being rendered ‘closed and silent’,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+663,/250916/article/ekathimerini/news/lockdown-starts-6-am-monday,Lockdown starts 6 a.m. Monday,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+664,/250892/article/ekathimerini/business/first-warning-sign-on-property-market,First warning sign on property market,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+665,/252719/article/ekathimerini/news/flight-bans-extended-for-seven-countries,Flight bans extended for seven countries,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+666,/252387/article/ekathimerini/community/young-bear-returned-to-shelter-after-locals-start-feeding-it,Young bear returned to shelter after locals start feeding it,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+667,/253248/article/ekathimerini/news/greece-clarifies-policy-to-allow-tourists-from-all-nations,"Greece clarifies policy, to allow tourists from all nations",http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+668,/254251/article/ekathimerini/news/tourism-test-begins-wednesday-with-104-flights,Tourism test begins Wednesday with 104 flights,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+669,/246329/article/ekathimerini/business/market-to-be-flooded-with-properties,Market to be flooded with properties,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+670,/245021/article/ekathimerini/news/teen-death-in-amusement-park-attributed-to-excessive-speed,Teen death in amusement park attributed to excessive speed,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+671,https://twitter.com/ekathimerini,Tweets by @ekathimerini,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+672,/255860/sketch/ekathimerini/cartoon/cartoon,Cartoon,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+673,/authors/ilias-makris,ILIAS MAKRIS,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+674,/255886/gallery/ekathimerini/in-images/perseids-meteor-shower-captured-in-stunning-photo,Perseids meteor shower captured in stunning photo,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+675,https://www.finanznachrichten.de,FinanzNachrichten.de,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+676,https://www.bestprice.gr/,BestPrice.gr,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+677,/aboutus,About us,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+678,/advertising,Advertising,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+679,/contact,Contact us,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+680,/sitemap,Site Map,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+681,/termsofuse,Terms of use,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+682,/partner-content,Partner Content,http://www.ekathimerini.com/,42.55626201629639 seconds,2020-08-15
+683,https://www.greece-is.com/,Greece is,http://www.ekathimerini.com/,42.55725836753845 seconds,2020-08-15
+684,http://www.eworx.gr/,Developed by EWORX S.A.,http://www.ekathimerini.com/,42.55725836753845 seconds,2020-08-15
+685,http://www.toolip.gr/,Powered by TOOLIP Web Content Management,http://www.ekathimerini.com/,42.55731558799744 seconds,2020-08-15
+686,/latest,Latest News,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+687,/regions,Regions,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+688,/field_development,Field Development,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+689,/lng,LNG,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+690,/energy_transition,Energy Transition,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+691,/editions,e-paper,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+692,/subscription,Subscribe,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+693,/editions,Newspaper Icon,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+694,/live/coronavirus,Coronavirus Latest,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+695,/exploration,Exploration,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+696,/production,Production,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+697,/shale,Shale,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+698,/rigs_and_vessels,Rigs & Vessels,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+699,finance,Finance,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+700,/safety,Safety,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+701,/environment,Environment,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+702,/tag/africa,Africa,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+703,/tag/americas,Americas,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+704,/tag/asia_and_oceania,Asia & Oceania,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+705,/tag/europe,Europe,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+706,/tag/middle_east,Middle East,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+707,/tag/politics,Politics,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+708,/tag/financial,Financial,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+709,/tag/opinion,Opinion,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+710,/tag/technology,Technology,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+711,/tag/head_to_head,Head to Head,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+712,/tag/cuttings,Cuttings,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+713,https://www.upstreamonlinecareers.com,Jobs,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+714,/editions,Editions,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+715,/hardcopy,Weekly,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+716,/focus_editions,Focus edition,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+717,/newsletter,Newsletter,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+718,https://eepurl.com/gXyimH,Coronavirus Newsletter,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+719,http://info.upstreamonline.com/events-calendar,Events,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+720,https://services.upstreamonline.com/api/feed/rss,RSS,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+721,/sponsor_content,Sponsor Content,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+722,/aboutus,About us,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+723,/contactus,Contact us,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+724,/privacy/privacy-policy/,Privacy,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+725,/advertise,Advertise,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+726,/archive,Archive,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+727,/myup/faq,FAQs,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+728,/,Upstream home page,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+729,/contactus,contact us,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+730,/terms,Terms,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+731,/aboutus,About Us,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+732,/contactus,Contact Us,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+733,/privacy/privacy-policy,Privacy Policy,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+734,https://www.facebook.com/UpstreamOnlineNews,Facebook,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+735,https://twitter.com/upstreamonline,Twitter,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+736,https://www.linkedin.com/company/upstream-the-international-oil-&-gas-newspaper,LinkedIn,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+737,https://www.youtube.com/user/UpstreamNewsOnline,YouTube,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+738,/privacy,Read more,https://www.upstreamonline.com/rss2/,46.49377942085266 seconds,2020-08-15
+739,https://www.stackpath.com/,StackPath,http://feeds.feedburner.com/offshore-latest-news?format=xml,52.658719062805176 seconds,2020-08-15

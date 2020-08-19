@@ -2,6 +2,7 @@ import csv
 import requests
 import time
 import string
+import datetime
 
 from bs4 import BeautifulSoup
 
@@ -33,6 +34,7 @@ def run(idx, base_url):
             # check for text inside the link
             if len(link.contents):
                 thisLink['title'] = ' '.join(link.stripped_strings)
+
         if thisLink['title'] is None:
             # if there's *still* no title (empty tag), skip it
             continue
@@ -88,6 +90,7 @@ if __name__ == '__main__':
     title = []
     source = []
     time = []
+    ext_date = []
 
     with open('./output_file/scraped_pr_links.csv', newline = '', encoding = 'utf-8') as f:
         column_names = ['id', 'url', 'title', 'source', 'time']
@@ -105,12 +108,14 @@ if __name__ == '__main__':
     for l in range(last_row):
         if l == 0:
             id.append('id')
+            ext_date.append('extract date')
         else:
             id.append(l)
+            ext_date.append(datetime.date.today())
 
     with open('./output_file/scraped_pr_links.csv', 'w', newline='', encoding='utf-8') as f:
-        column_names = ['id', 'url', 'title', 'source', 'time']
+        column_names = ['id', 'url', 'title', 'source', 'time', 'extract date']
         frtr = csv.DictWriter(f, fieldnames=column_names)
 
         for row in range(last_row):
-            frtr.writerow({'id': id[row], 'url': url[row], 'title': title[row], 'source': source[row], 'time': time[row]})
+            frtr.writerow({'id': id[row], 'url': url[row], 'title': title[row], 'source': source[row], 'time': time[row], 'extract date': ext_date[row]})
