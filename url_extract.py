@@ -1,8 +1,10 @@
 import csv
+import os
 import requests
 import time
 import string
 import datetime
+import pandas as pd
 
 from bs4 import BeautifulSoup
 
@@ -45,7 +47,7 @@ def run(idx, base_url):
         if hashable_link not in links:
             links.append(hashable_link)
     id = 1
-    with open('./output_file/scraped_pr_links.csv','a' if idx else 'w', newline = '', encoding = 'utf-8') as fobj:
+    with open('./output_file/export/scraped_pr_links.csv','a' if idx else 'w', newline = '', encoding = 'utf-8') as fobj:
         column_names = ['id', 'url', 'title', 'source', 'time']
         fd = csv.DictWriter(fobj, fieldnames=column_names)
 
@@ -65,6 +67,10 @@ def run(idx, base_url):
 if __name__ == '__main__':
     links = read_csv()
     time_i = []
+
+    filename = './output_file/export/scraped_pr_links.csv'
+    filename1 = './output_file/database/allextract_merged.xlsx'
+    filename2 = './output_file/Final_output.csv'
 
     for idx, alink in enumerate(links):
 
@@ -92,7 +98,7 @@ if __name__ == '__main__':
     time = []
     ext_date = []
 
-    with open('./output_file/scraped_pr_links.csv', newline = '', encoding = 'utf-8') as f:
+    with open(filename, newline = '', encoding = 'utf-8') as f:
         column_names = ['id', 'url', 'title', 'source', 'time']
         frdr = csv.DictReader(f, fieldnames=column_names)
 
@@ -113,9 +119,53 @@ if __name__ == '__main__':
             id.append(l)
             ext_date.append(datetime.date.today())
 
-    with open('./output_file/scraped_pr_links.csv', 'w', newline='', encoding='utf-8') as f:
+    with open(filename, 'w', newline='', encoding='utf-8') as f:
         column_names = ['id', 'url', 'title', 'source', 'time', 'extract date']
         frtr = csv.DictWriter(f, fieldnames=column_names)
 
         for row in range(last_row):
             frtr.writerow({'id': id[row], 'url': url[row], 'title': title[row], 'source': source[row], 'time': time[row], 'extract date': ext_date[row]})
+
+    df = pd.read_csv(filename)
+    print(len(df['url']))
+    df['concat'] = df['title'] + df['url']
+
+    df.to_csv(filename, index = False)
+
+    def load_data(name1, name2):
+        df, df1 = pd.read_csv(name1), pd.read_excel(name2)
+        return df, df1
+
+    if os.path.exists(filename1):
+        print("Identifying latest links.....")
+
+        # Read an excel with two sheets into two dataframes
+
+        df, df1 = load_data(filename, filename1)
+
+        lookup = []
+        for i in [str(l) for l in df['concat']]:
+            if i in [str(x) for x in df1['concat']]:
+                lookup.append('True')
+            else:
+                lookup.append('False')
+
+        df2 = df
+        df2['lookup'] = lookup
+        df2.to_csv(filename2, index=False)
+
+        df2['lookup'] = [str(m) for m in df2['lookup']]
+        print(df[df2['lookup'] == 'False'])
+
+        df1 = df1.append(df[df2['lookup'] == 'False'])
+
+        # database_update = pd.merge(df2, df1, how = 'left')
+        # df1 = database_update
+        df1.to_excel(filename1, index=False)
+        # print(len(df1['concat']))
+
+    else:
+        df = pd.read_csv(filename)
+        df.to_csv(filename, index=False)
+        df.to_excel(filename1, index=False)
+        df.to_csv(filename2, index=False)
