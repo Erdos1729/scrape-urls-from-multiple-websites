@@ -155,7 +155,7 @@ if __name__ == '__main__':
         df2.to_csv(filename2, index=False)
 
         df2['lookup'] = [str(m) for m in df2['lookup']]
-        print(df[df2['lookup'] == 'False'])
+        # print(df[df2['lookup'] == 'False'])
 
         df1 = df1.append(df[df2['lookup'] == 'False'])
 
